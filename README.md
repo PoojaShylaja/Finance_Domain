@@ -1,5 +1,6 @@
 
-![Finance Domain - Bank Loan Report](![image](https://github.com/user-attachments/assets/c3da66cb-b3ce-4a43-bb71-8593d7ea1a6f)
+![Finance Domain - Bank Loan Report](![image](https://github.com/user-attachments/assets/1ce34b6d-148f-4ed6-8c46-4671b895f3ff)
+
 
 
 **Problem Statement**
